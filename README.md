@@ -83,3 +83,5 @@ Request → index.php (Front Controller) → EnrollmentController → Enrollment
 - Manajemen relasi antara mahasiswa dan mata kuliah
 
 # Dokumentasi ScreenRecord Programnya 
+
+https://github.com/user-attachments/assets/cb5ba615-f137-441c-90e9-2775b98964c4
